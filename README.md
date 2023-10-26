@@ -30,7 +30,7 @@
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
 </h1>
 
-Objeto usuaeio
+Objeto usuario
 ---
 
 ### Sobre
